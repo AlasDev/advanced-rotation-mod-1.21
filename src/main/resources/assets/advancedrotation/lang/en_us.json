@@ -1,0 +1,10 @@
+{
+  "item.advancedrotation.raw_tungsten": "Raw Tungsten",
+  "item.advancedrotation.tungsten_nugget": "Tungsten Nugget",
+  "item.advancedrotation.tungsten_ingot": "Tungsten Ingot",
+
+  "block.advancedrotation.tungsten_ore": "Tungsten Ore",
+  "block.advancedrotation.tungsten_block": "Tungsten Block",
+
+  "itemgroup.advancedrotation.advanced_rotation_items": "Advanced Rotation"
+}
