@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "advancedrotation:tungsten_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "advancedrotation:tungsten_ingot"
+  }
+}
